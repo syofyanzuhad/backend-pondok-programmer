@@ -8,7 +8,9 @@ Backend Developer Of Pondok Programmer
  2. <img src="https://github.com/aldyrifaldi.png" width="20px"> Aldy Rifaldi.B [@aldyrifaldi](https://github.com/aldyrifaldi)
  
 ## Backend 01/2020
- 1. ...
+ 1. <img src="https://gitlab.com/uploads/-/system/user/avatar/6268328/avatar.png?width=20"> Muhammad Ichlas [@ichlas16](https://github.com/ichlas16) | [@ichlas16](https://gitlab.com/ichlas16)
+ 2. <img src="https://github.com/WahyuPrayogo1.png" width="20px"> Wahyu Prayogo [@WahyuPrayogo1](https://github.com/WahyuPrayogo1)
+ 3. <img src="https://github.com/NurulH123.png" width="20px"> Nurul Hidayat [@NurulH123](https://github.com/NurulH123) 
  
 ## Backend 08/2020
  1. ...
